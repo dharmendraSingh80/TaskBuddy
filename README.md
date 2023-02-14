@@ -28,6 +28,13 @@ this is simple todo app in which you can perform all th CRUD operations
 - - package.json
 - - README.md
 
+## Hosted Link
+https://dharmendrasingh80.github.io/todo-app/
+
+## Screenshot
+![Screenshot (15)](https://user-images.githubusercontent.com/114590452/218749021-da5482c5-1e84-4f82-b2cf-83d899ec4eb7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

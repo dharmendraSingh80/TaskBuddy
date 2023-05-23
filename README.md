@@ -1,4 +1,4 @@
-# Todo List app
+# TaskBuddy
 
 this is simple todo app in which you can perform all th CRUD operations
 
